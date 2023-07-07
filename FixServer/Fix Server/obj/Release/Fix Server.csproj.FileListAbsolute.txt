@@ -1,0 +1,11 @@
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Release\Fix Server.exe.config
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Release\Fix Server.exe
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Release\Fix Server.pdb
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix_Server.Form1.resources
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix_Server.Properties.Resources.resources
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.csproj.GenerateResource.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.exe
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.pdb
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Release\Fix Server.csproj.AssemblyReference.cache

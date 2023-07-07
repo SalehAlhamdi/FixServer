@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4d3bc61-ff3d-4eaf-b0fc-af2db897b228": {
+      "ProjectGuid": "d4d3bc61-ff3d-4eaf-b0fc-af2db897b228",
+      "DisplayName": "Fix Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

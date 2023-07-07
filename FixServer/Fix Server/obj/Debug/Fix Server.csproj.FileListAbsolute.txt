@@ -1,0 +1,22 @@
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Debug\Fix Server.exe.config
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Debug\Fix Server.exe
+C:\Users\lap\source\repos\Fix Server\Fix Server\bin\Debug\Fix Server.pdb
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.AssemblyReference.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix_Server.Form1.resources
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix_Server.Properties.Resources.resources
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.GenerateResource.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.exe
+C:\Users\lap\source\repos\Fix Server\Fix Server\obj\Debug\Fix Server.pdb
+D:\Fix Server\Fix Server\bin\Debug\Fix Server.exe.config
+D:\Fix Server\Fix Server\bin\Debug\Fix Server.exe
+D:\Fix Server\Fix Server\bin\Debug\Fix Server.pdb
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.AssemblyReference.cache
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.SuggestedBindingRedirects.cache
+D:\Fix Server\Fix Server\obj\Debug\Fix_Server.Form1.resources
+D:\Fix Server\Fix Server\obj\Debug\Fix_Server.Properties.Resources.resources
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.GenerateResource.cache
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.csproj.CoreCompileInputs.cache
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.exe
+D:\Fix Server\Fix Server\obj\Debug\Fix Server.pdb
